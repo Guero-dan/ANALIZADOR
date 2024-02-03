@@ -1,0 +1,13 @@
+#title {
+    font-size: 2cm;
+    font-style: oblique;
+    text-shadow: 90px 45px -10px dimgrey;
+}
+body {
+    text-align: justify;
+    background-color: #e2ce36;
+    opacity: 1;
+    background-image:  repeating-linear-gradient(45deg, #8bb90b 25%, transparent 25%, transparent 75%, #630000 75%, #ff0000), repeating-linear-gradient(45deg, #ff4c4c 25%, #fff07d 25%, #ffe100 75%, #ff3333 75%, #9e0505);
+    background-position: 0 0, 40px 40px;
+    background-size: 80px 80px;
+}
